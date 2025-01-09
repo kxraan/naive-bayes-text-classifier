@@ -16,3 +16,13 @@ This project implements a custom Naive Bayes text classifier from scratch to cla
 The dataset consists of 20,000 newsgroup messages across 20 categories. For preprocessing:
 - Removed metadata (e.g., `From`, `Subject`).
 - Removed stop words and frequent terms to improve classification accuracy.
+
+## Key Learnings
+- Gained a deeper understanding of Bayesian probability and its application to text classification.
+- Learned how to preprocess textual data effectively (e.g., stop word removal, tokenization).
+- Improved skills in implementing machine learning algorithms from scratch without relying on external libraries.
+
+## Future Enhancements
+- Add support for other classifiers (e.g., SVM, Logistic Regression) for comparison.
+- Expand preprocessing to include stemming and lemmatization for better word representation.
+- Evaluate performance on larger datasets and other domains (e.g., social media data).
